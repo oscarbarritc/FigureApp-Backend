@@ -1,0 +1,56 @@
+{
+  "figures": [
+    {
+      "id": 1,
+      "name": "Piccolo",
+      "launch_price": 3500,
+      "launch_date": "01/11/2009",
+      "image": "https://tamashiiweb.com/images/item/item_0000001172_01.jpg",
+      "brand": "S.H Figuarts",
+      "anime": "Dragon Ball",
+      "state": ""
+    },
+    {
+      "id": 2,
+      "name": "Super Saiyan Son Goku",
+      "launch_price": 3200,
+      "launch_date": "01/01/2010",
+      "image": "https://tamashiiweb.com/images/item/item_0000001216_01.jpg",
+      "brand": "S.H Figuarts",
+      "anime": "Dragon Ball",
+      "state": ""
+    },
+    {
+      "id": 3,
+      "name": "Son Gohan",
+      "launch_price": 3200,
+      "launch_date": "01/07/2010",
+      "image": "https://tamashiiweb.com/images/item/item_0000001354_01.jpg",
+      "brand": "S.H Figuarts",
+      "anime": "Dragon Ball",
+      "state": "",
+      "purchase_date": "",
+      "purchase_price": 0
+    },
+    {
+      "id": 4,
+      "name": "Trunks",
+      "launch_price": 3800,
+      "launch_date": "01/05/2012",
+      "image": "https://tamashiiweb.com/images/item/item_0000011548_98sQC92H_01.jpg",
+      "brand": "S.H Figuarts",
+      "anime": "Dragon Ball",
+      "state": ""
+    },
+    {
+      "id": 5,
+      "name": "Perfect Cell",
+      "launch_price": 4500,
+      "launch_date": "01/11/2012",
+      "image": "https://tamashiiweb.com/images/item/item_0000010088_01.jpg",
+      "brand": "S.H Figuarts",
+      "anime": "Dragon Ball",
+      "state": ""
+    }
+  ]
+}
