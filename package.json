@@ -1,15 +1,24 @@
 {
-  "name": "figureapp-backend",
+  "name": "apitestdevvideo",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api Test para DevVideo de SoriaDev",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoSoriaArg/ApiTestDevVideo.git"
+  },
+  "author": "SoriaDev",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DiegoSoriaArg/ApiTestDevVideo/issues"
+  },
+  "homepage": "https://github.com/DiegoSoriaArg/ApiTestDevVideo#readme",
   "dependencies": {
-    "json-server": "^1.0.0-beta.1"
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.3"
   }
 }
