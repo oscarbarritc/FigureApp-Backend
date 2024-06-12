@@ -1,14 +1,14 @@
 {
   "last_update": [
     {
-      "update_date": "12/06/2024",
+      "update_date": "11/06/2024",
       "notes": "BD update"
     }
   ],
   "figures": [
   {
     "id": 1,
-    "name": "Piccolo",
+    "name": "Pio",
     "launch_price": 3500,
     "launch_date": "01/11/2009",
     "image": "https://tamashiiweb.com/images/item/item_0000001172_02_m.jpg",
