@@ -1,8 +1,8 @@
 {
   "last_update": [
     {
-      "update_date": "25/06/2024",
-      "notes": "BD update- Godzilla update"
+      "update_date": "26/06/2024",
+      "notes": "BD update - Change []"
     }
   ],
   "figures": [
@@ -3908,7 +3908,7 @@
   },
   {
     "id": 301,
-    "name": "Virgo Shaka <20th>",
+    "name": "Virgo Shaka <20th Revival Version>",
     "launch_price": 16000,
     "launch_date": "01/06/2024",
     "image": "https://tamashiiweb.com/images/item/item_0000014712_vnfOkcWi_02_m.jpg",
