@@ -4,7 +4,8 @@
   "description": "Api Test para DevVideo de SoriaDev",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "backend": "json-server --watch db.json"
   },
   "repository": {
     "type": "git",

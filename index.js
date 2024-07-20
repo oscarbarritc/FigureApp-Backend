@@ -7,3 +7,4 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+// https://sigdeletras.com/2020/crear-una-fake-reat-api-con-json-server-copy/

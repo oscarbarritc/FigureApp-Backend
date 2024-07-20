@@ -1,8 +1,8 @@
 {
   "last_update": [
     {
-      "update_date": "17/07/2024",
-      "notes": "BD update - Change sdcc 2019 pics"
+      "update_date": "20/07/2024",
+      "notes": "BD update - local lines_sublines"
     }
   ],
   "lines": [
@@ -28,6 +28,108 @@
       "line_id": 1,
       "sublinea": "Dragon Ball",
       "logo": "../../../../assets/logos/logo_db.png"
+    },
+    {
+      "id": 2,
+      "line_id": 1,
+      "sublinea": "Dragon Ball Z",
+      "logo": "../../../../assets/logos/logo_dbz.png"
+    },
+    {
+      "id": 3,
+      "line_id": 1,
+      "sublinea": "Dragon Ball Super",
+      "logo": "../../../../assets/logos/logo_dbs.png"
+    },
+    {
+      "id": 4,
+      "line_id": 1,
+      "sublinea": "Dragon Ball GT",
+      "logo": "../../../../assets/logos/logo_dbgt.png"
+    },
+    {
+      "id": 5,
+      "line_id": 1,
+      "sublinea": "Dragon Ball Fighterz",
+      "logo": "../../../../assets/logos/logo_dbfz.png"
+    },
+    {
+      "id": 6,
+      "line_id": 1,
+      "sublinea": "Dragon Ball Xenoverse",
+      "logo": "../../../../assets/logos/logo_dbxeno.png"
+    },
+    {
+      "id": 7,
+      "line_id": 2,
+      "sublinea": "Oro Revival",
+      "logo": ""
+    },
+    {
+      "id": 8,
+      "line_id": 2,
+      "sublinea": "Oro",
+      "logo": ""
+    },
+    {
+      "id": 9,
+      "line_id": 2,
+      "sublinea": "Oro OCE",
+      "logo": ""
+    },
+    {
+      "id": 10,
+      "line_id": 2,
+      "sublinea": "Bronce",
+      "logo": ""
+    },
+    {
+      "id": 11,
+      "line_id": 2,
+      "sublinea": "Dios Guerrero de Asgard",
+      "logo": ""
+    },
+    {
+      "id": 12,
+      "line_id": 2,
+      "sublinea": "Marinos",
+      "logo": ""
+    },
+    {
+      "id": 13,
+      "line_id": 2,
+      "sublinea": "Surplice",
+      "logo": ""
+    },
+    {
+      "id": 14,
+      "line_id": 2,
+      "sublinea": "Divinos",
+      "logo": ""
+    },
+    {
+      "id": 15,
+      "line_id": 2,
+      "sublinea": "Especiales",
+      "logo": ""
+    },
+    {
+      "id": 16,
+      "line_id": 2,
+      "sublinea": "Movies",
+      "logo": ""
+    },
+    {
+      "id": 17,
+      "line_id": 2,
+      "sublinea": "Accesorio",
+      "logo": ""
+    },
+    {
+      "id": 17,
+      "line_id": 3,
+      "sublinea": "Godzilla",
+      "logo": "../../../../assets/logos/logo_godzilla.png"
     }
   ],
   "figures": 
