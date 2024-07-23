@@ -1,8 +1,8 @@
 {
   "last_update": [
     {
-      "update_date": "28/06/2024",
-      "notes": "BD update - Change []"
+      "update_date": "20/07/2024",
+      "notes": "BD update - local lines_sublines"
     }
   ],
   "lines": [
@@ -28,6 +28,108 @@
       "line_id": 1,
       "sublinea": "Dragon Ball",
       "logo": "../../../../assets/logos/logo_db.png"
+    },
+    {
+      "id": 2,
+      "line_id": 1,
+      "sublinea": "Dragon Ball Z",
+      "logo": "../../../../assets/logos/logo_dbz.png"
+    },
+    {
+      "id": 3,
+      "line_id": 1,
+      "sublinea": "Dragon Ball Super",
+      "logo": "../../../../assets/logos/logo_dbs.png"
+    },
+    {
+      "id": 4,
+      "line_id": 1,
+      "sublinea": "Dragon Ball GT",
+      "logo": "../../../../assets/logos/logo_dbgt.png"
+    },
+    {
+      "id": 5,
+      "line_id": 1,
+      "sublinea": "Dragon Ball Fighterz",
+      "logo": "../../../../assets/logos/logo_dbfz.png"
+    },
+    {
+      "id": 6,
+      "line_id": 1,
+      "sublinea": "Dragon Ball Xenoverse",
+      "logo": "../../../../assets/logos/logo_dbxeno.png"
+    },
+    {
+      "id": 7,
+      "line_id": 2,
+      "sublinea": "Oro Revival",
+      "logo": ""
+    },
+    {
+      "id": 8,
+      "line_id": 2,
+      "sublinea": "Oro",
+      "logo": ""
+    },
+    {
+      "id": 9,
+      "line_id": 2,
+      "sublinea": "Oro OCE",
+      "logo": ""
+    },
+    {
+      "id": 10,
+      "line_id": 2,
+      "sublinea": "Bronce",
+      "logo": ""
+    },
+    {
+      "id": 11,
+      "line_id": 2,
+      "sublinea": "Dios Guerrero de Asgard",
+      "logo": ""
+    },
+    {
+      "id": 12,
+      "line_id": 2,
+      "sublinea": "Marinos",
+      "logo": ""
+    },
+    {
+      "id": 13,
+      "line_id": 2,
+      "sublinea": "Surplice",
+      "logo": ""
+    },
+    {
+      "id": 14,
+      "line_id": 2,
+      "sublinea": "Divinos",
+      "logo": ""
+    },
+    {
+      "id": 15,
+      "line_id": 2,
+      "sublinea": "Especiales",
+      "logo": ""
+    },
+    {
+      "id": 16,
+      "line_id": 2,
+      "sublinea": "Movies",
+      "logo": ""
+    },
+    {
+      "id": 17,
+      "line_id": 2,
+      "sublinea": "Accesorio",
+      "logo": ""
+    },
+    {
+      "id": 17,
+      "line_id": 3,
+      "sublinea": "Godzilla",
+      "logo": "../../../../assets/logos/logo_godzilla.png"
     }
   ],
   "figures": 
@@ -2156,7 +2258,7 @@
       "name": "Golden Frieza -Event Exclusive Color Edition-",
       "launch_price": 6000,
       "launch_date": "01/08/2019",
-      "image": "https://www.db-tour.com/images/eventEx/ex03/pic_01.jpg",
+      "image": "https://shop.bandai.com/media/wysiwyg/events/Golden_Frieza.png",
       "line": "S.H Figuarts",
       "subline": "Dragon Ball Super",
       "distribution": "Event Exclusive",
@@ -2169,7 +2271,7 @@
       "name": "Goku Black Super Saiyan Rose -Event Exclusive Color Edition-",
       "launch_price": 8000,
       "launch_date": "01/08/2019",
-      "image": "https://www.db-tour.com/images/eventEx/ex04/pic_01.jpg",
+      "image": "https://shop.bandai.com/media/wysiwyg/events/Goku_Black_Super_Saiyan_Rose.png",
       "line": "S.H Figuarts",
       "subline": "Dragon Ball Super",
       "distribution": "Event Exclusive",
@@ -2182,7 +2284,7 @@
       "name": "Ultimate Gohan -Event Exclusive Color Edition-",
       "launch_price": 7000,
       "launch_date": "01/08/2019",
-      "image": "https://www.db-tour.com/images/eventEx/ex02/pic_01.jpg",
+      "image": "https://shop.bandai.com/media/wysiwyg/events/Ultimate_Son_Gohan.png",
       "line": "S.H Figuarts",
       "subline": "Dragon Ball Z",
       "distribution": "Event Exclusive",
@@ -2195,7 +2297,7 @@
       "name": "Son Goku -Event Exclusive Color Edition-",
       "launch_price": 6000,
       "launch_date": "01/08/2019",
-      "image": "https://www.db-tour.com/images/eventEx/ex01/pic_01.jpg",
+      "image": "https://shop.bandai.com/media/wysiwyg/events/Son_Goku_Kid.png",
       "line": "S.H Figuarts",
       "subline": "Dragon Ball",
       "distribution": "Event Exclusive",
@@ -2286,7 +2388,7 @@
       "name": "Son Goku Edición GO Kanji (Tamashii Nations México )",
       "launch_price": 650,
       "launch_date": "01/06/2015",
-      "image": "https://scontent.fgdl3-1.fna.fbcdn.net/v/t31.18172-8/11160042_945033915517868_6929702635040973996_o.jpg?stp=dst-jpg_s600x600&_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGoLuKllgXQQQTu0hA150JNs38P1uIJSJizfw_W4glImGm9eKlQuvUJq_7Z7oiB7j7OD5QJlasv-P6dY902NeZm&_nc_ohc=yW3w0NHytXYQ7kNvgGlvMDf&_nc_ht=scontent.fgdl3-1.fna&oh=00_AYCV6w59XGW6arhp1h3pS3PHH5h9nwpRHswF3_JTAqYmxA&oe=669928EE",
+      "image": "https://4.bp.blogspot.com/-bVSaMLyYoBA/VUNaqZKqryI/AAAAAAAAILg/weraQ8Dab58/s1600-rw/11188206_10153273097948958_7347424519371202452_n.jpg",
       "line": "S.H Figuarts",
       "subline": "Dragon Ball Z",
       "distribution": "Event Exclusive",
@@ -2312,7 +2414,7 @@
       "name": "Piccolo SDCC Exclusive",
       "launch_price": 0,
       "launch_date": "01/07/2013",
-      "image": "https://i.toynewsi.com/g/generated/SHFiguarts/2012_SDCC_Gohan/996191_609082229110946_782775128_n__Marinosd_600.jpg",
+      "image": "https://i.toynewsi.com/g/generated/SHFiguarts/2012_SDCC_Gohan/996191_609082229110946_782775128_n__scaled_600.jpg",
       "line": "S.H Figuarts",
       "subline": "Dragon Ball Z",
       "distribution": "Event Exclusive",
@@ -5221,4 +5323,3 @@
     }
   ]
 }
-

@@ -1,8 +1,8 @@
 {
   "last_update": [
     {
-      "update_date": "20/07/2024",
-      "notes": "BD update - local lines_sublines"
+      "update_date": "23/07/2024",
+      "notes": "BD update - "
     }
   ],
   "lines": [
@@ -5316,6 +5316,97 @@
       "image": "https://tamashiiweb.com/images/item/item_0000015003_E9VVWIPb_02_m.jpg",
       "line": "S.H Monsterarts",
       "subline": "Godzilla",
+      "distribution": "Tamashii Web",
+      "state": "",
+      "purchase_date": "",
+      "purchase_price": ""
+    },
+    {
+      "id": 400,
+      "name": "Virgo Shun - Successor of the Golden Cloth -",
+      "launch_price": 20000,
+      "launch_date": "01/12/2024",
+      "image": "https://tamashiiweb.com/images/item/item_0000015071_m1jX10UI_02_m.jpg",
+      "line": "Saint Cloth Myth EX",
+      "subline": "Oro",
+      "distribution": "Tamashii Web",
+      "state": "",
+      "purchase_date": "",
+      "purchase_price": ""
+    },
+    {
+      "id": 401,
+      "name": "GODZILLA [1989] -Exclusive Edition-",
+      "launch_price": 9000,
+      "launch_date": "01/07/2024",
+      "image": "https://tamashiiweb.com/images/item/item_0000015007_f87soabj_02_m.jpg",
+      "line": "S.H Monsterarts",
+      "subline": "Godzilla",
+      "distribution": "Event Exclusive",
+      "state": "",
+      "purchase_date": "",
+      "purchase_price": ""
+    },
+    {
+      "id": 402,
+      "name": "JIREN -FINAL BATTLE- -Exclusive Edition-",
+      "launch_price": 7000,
+      "launch_date": "01/07/2024",
+      "image": "https://tamashiiweb.com/images/item/item_0000015006_0wKnheqE_02_m.jpg",
+      "line": "S.H Figuarts",
+      "subline": "Dragon Ball Super",
+      "distribution": "Event Exclusive",
+      "state": "",
+      "purchase_date": "",
+      "purchase_price": ""
+    },
+    {
+      "id": 403,
+      "name": "SON GOKU & SON GOHAN -KID- & KINTOUN -Exclusive Edition-",
+      "launch_price": 10000,
+      "launch_date": "01/07/2024",
+      "image": "https://tamashiiweb.com/images/item/item_0000015008_ABsH0f6f_02_m.jpg",
+      "line": "S.H Figuarts",
+      "subline": "Dragon Ball Z",
+      "distribution": "Event Exclusive",
+      "state": "",
+      "purchase_date": "",
+      "purchase_price": ""
+    },
+    {
+      "id": 404,
+      "name": "FUTURE TRUNKS -SUPER SAIYAN- -Exclusive Edition-",
+      "launch_price": 7000,
+      "launch_date": "01/07/2024",
+      "image": "https://tamashiiweb.com/images/item/item_0000015009_RDKjqZdU_02_m.jpg",
+      "line": "S.H Figuarts",
+      "subline": "Dragon Ball Super",
+      "distribution": "Event Exclusive",
+      "state": "",
+      "purchase_date": "",
+      "purchase_price": ""
+    },
+    {
+      "id": 405,
+      "name": "VEGETA -OLDER STYLE BATTLE CLOTHES-",
+      "launch_price": 7000,
+      "launch_date": "01/02/2025",
+      "image": "https://tamashiiweb.com/images/item/item_0000015059_PmWtGYe1_02_m.jpg",
+      "line": "S.H Figuarts",
+      "subline": "Dragon Ball Z",
+      "distribution": "Tamashii Web",
+      "state": "",
+      "purchase_date": "",
+      "purchase_price": ""
+    },
+    {
+      "id": 406,
+      "name": "MEDICAL MACHINE",
+      "launch_price": 11000,
+      "launch_date": "01/03/2025",
+      "image": "https://tamashiiweb.com/images/item/item_0000015080_JRdwE4iT_02_m.jpg",
+      "line": "S.H Figuarts",
+      "subline": "Dragon Ball Z",
       "distribution": "Tamashii Web",
       "state": "",
       "purchase_date": "",
