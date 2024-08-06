@@ -1,5 +1,0 @@
-{
-    "/api/*": "/$1",
-    "/shop/:type": "/shop?type=:type",
-    "/shop/address/:address" :"/shop?address_like=:address"
-  }
