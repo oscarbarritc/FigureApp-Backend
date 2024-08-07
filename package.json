@@ -1,7 +1,7 @@
 {
-  "name": "apitestdevvideo",
+  "name": "apitestdefiguras",
   "version": "1.0.0",
-  "description": "Api Test para DevVideo de SoriaDev",
+  "description": "Api Test para Figurecollectorapp",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DiegoSoriaArg/ApiTestDevVideo.git"
+    "url": "git+"
   },
   "author": "SoriaDev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DiegoSoriaArg/ApiTestDevVideo/issues"
+    "url": "https://github.com/¿"
   },
-  "homepage": "https://github.com/DiegoSoriaArg/ApiTestDevVideo#readme",
+  "homepage": "https://github.com/",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
